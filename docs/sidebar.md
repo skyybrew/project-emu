@@ -1,6 +1,10 @@
 - **Introduction**
 [Home](/)
 ---
+
+- **Utilies**
+[Useful Software](/utilities)
+
 - **Emulation Apps**
 [Dolphin Emulator](/dolphin-emu)
 
