@@ -1,7 +1,7 @@
 - **Introduction**
 [Home](/)
 ---
-- **Emulation Apps
+- **Emulation Apps**
 [Dolphin Emulator](/dolphin-emu)
 
 - **Socials**
