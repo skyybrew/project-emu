@@ -2,7 +2,7 @@
 
 !> Never use illegal/pirated games. Always use ones you dumped.
 
-?> Visit the [utilities page](/utilites) for downloads of useful software you may need.
+?> Visit the [utilities page](/utilities) for downloads of useful software you may need.
 
 Dolphin emulator is a easy to use, fast, and accurate gamecube & wii emulator.
 
