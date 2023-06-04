@@ -1,6 +1,6 @@
 ## The following is a guide to install dolphin emulator.
 
-!> Never use illegal pirated games. Always use ones you dumped.
+!> Never use illegal/pirated games. Always use ones you dumped.
 
 ?> Visit the [utilities page](/utilites) for downloads of useful software you may need.
 
