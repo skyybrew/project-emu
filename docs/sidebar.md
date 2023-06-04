@@ -5,8 +5,9 @@
 - **Utilites**
 [Useful Software](/utilities)
 
-- **Emulation Apps**
+- **Emulator Guides**
 [Dolphin Emulator](/dolphin-emu)
+[Project 64](/p64)
 
 - **Socials**
 
