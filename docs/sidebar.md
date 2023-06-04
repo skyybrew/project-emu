@@ -2,7 +2,7 @@
 [Home](/)
 ---
 
-- **Utilies**
+- **Utilites**
 [Useful Software](/utilities)
 
 - **Emulation Apps**
