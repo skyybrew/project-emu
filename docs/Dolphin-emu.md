@@ -9,7 +9,9 @@ Dolphin emulator is a easy to use, fast, and accurate gamecube & wii emulator.
 It is on 4 platforms. Mac, Windows, Linux & Android. We will be covering the PC versions.
 
 First, we need to download dolphin. For windows, download it from [here](https://dl.dolphin-emu.org/builds/6f/62/dolphin-master-5.0-19501-x64.7z).
+
 For macos, download it from [here](https://dl.dolphin-emu.org/builds/a2/40/dolphin-master-5.0-19501-universal.dmg).
+
 For linux, it depends on your distro. I will show you how to get it for **arch linux.**. Open up a terminal window and proceed to type in **yay -S dolphin-emu**.
 
 ##  Setting up the emulator.
