@@ -33,7 +33,7 @@ It is very easy to configure dolphin. You can use almost any controller! Lets wa
 
 ## Graphical Configuration.
 
-1. In the standard dolphin menu, click on **Graphics.**
+1. In the standard dolphin menu, click on **Graphics**
 2. You can now choose your backend in the general panel, your resolution and other things in the enhancement panel, and hacks for optimizing things. Only use advanced if you plan to debug.
 3. You now should have configured your graphics settings. Be warned you will need a beefy gpu to crank it to 4K.
 
