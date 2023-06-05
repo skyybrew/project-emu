@@ -8,6 +8,7 @@
 - **Emulator Guides**
 [Dolphin Emulator](/dolphin-emu)
 [Project 64](/p64)
+[PPSSPP](/PPSSPP)
 
 - **Socials**
 
