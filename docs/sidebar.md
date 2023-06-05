@@ -9,6 +9,7 @@
 [Dolphin Emulator](/dolphin-emu)
 [Project 64](/p64)
 [PPSSPP](/PPSSPP)
+[Duckstation](/duckstation)
 
 - **Socials**
 
