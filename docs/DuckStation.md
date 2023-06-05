@@ -31,4 +31,24 @@ Download DuckStation for Android [here](https://play.google.com/store/apps/detai
 6. Input your computer password as told.
 7. From the new prompt, click open. You can now launch DuckStation on MacOS
 
+## Controller Settings
+
+1. Go to **Settings > Controllers**
+2. Enable the input source for which controller you use.
+3. Map it in the **Controller Port** it is automatically set to, by clicking on the button you want to map, and then pressing the button on your controller.
+
+
+## Graphical Settings
+
+1. Go to **Settings > Enhancements**
+2. Change the resolution to what you want.
+3. Enable 60hz patching for 50hz games.
+4. Enable Fullscreen.
+5. Enable show FPS.
+
+## Booting & Game Directory
+
+1. Set the game directory in the home menu to where your PS1 game/games are located.
+2. To launch a game, click on it in the menu.
+
 
