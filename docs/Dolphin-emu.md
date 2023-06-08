@@ -4,13 +4,14 @@
 
 ?> Visit the [utilities page](/utilities) for downloads of useful software you may need.
 
-Dolphin emulator is a easy to use, fast, and accurate gamecube & wii emulator.
+The Dolphin emulator is a user-friendly, efficient, and precise software that allows you to emulate GameCube and Wii games effortlessly.
 
-It is on 4 platforms. Mac, Windows, Linux & Android. We will be covering the PC versions.
+It is available on multiple platforms, including Mac, Windows, Linux, and Android. In this discussion, we will focus on the PC versions.
 
-First, we need to download dolphin. For windows, download it from [here](https://dl.dolphin-emu.org/builds/6f/62/dolphin-master-5.0-19501-x64.7z).
+To begin, the first step is to acquire the Dolphin emulator. You can obtain it by downloading it from [here](https://dolphin-emu.org/download/)
 
 For macos, download it from [here](https://dl.dolphin-emu.org/builds/a2/40/dolphin-master-5.0-19501-universal.dmg).
+
 For Linux, depending on your distro check below
 
 <details> On Arch Linux open a terminal instance and type **yay -S dolphin-emu**. <summary>Arch Linux<summary></details>
@@ -28,24 +29,25 @@ For Linux, depending on your distro check below
 
 ## Configuring your controller.
 
-It is very easy to configure dolphin. You can use almost any controller! Lets walk through that.
+It is very easy to configure dolphin. You can use almost any controller! Let's walk through that.
 
-1. Grab the controller and connect it to your pc via bluetooth. Heres a example for a ps4 controller [here](https://www.howtogeek.com/792747/how-to-pair-ps4-controller/)
-2. Inside dolphin, press the **controllers** button at the top of the dolphin window.
-3. You will see a panel with windows that say Gamecube controllers, and Wii Remotes.
-4. Click the configure button on the gamecube or wii remote window, depending on which console your going to play.
-5. You will see a panel that says device, make it the controller you plan to connect.
-6. It should automap, but if it doesnt, map it yourself manually by clicking on each button with your mouse, then pressing the button you want it to be on your controller.
+1. Begin by acquiring a controller and establishing a Bluetooth connection with your PC. To assist you in this process, you can refer to this resource, which provides a step-by-step guide on pairing a PS4 controller [here](https://www.howtogeek.com/792747/how-to-pair-ps4-controller/).
+2. Launch the Dolphin emulator and direct your attention to the top of the Dolphin window, where you will find a button labeled `Controllers`. Click on it.
+3. A panel will appear, presenting options for Gamecube controllers and Wii Remotes.
+4. Determine the console you intend to play on and select the corresponding `configure` button within the GameCube or Wii Remote section.
+5. A panel will emerge, displaying the available devices. Choose the controller you wish to connect by designating it in the "device" field.
+6. Ideally, the controller should be automatically mapped. However, if this is not the case, you can manually map the buttons by clicking on each button using your mouse and subsequently pressing the corresponding button on your controller.
 
 ## Graphical Configuration.
 
-1. In the standard dolphin menu, click on **Graphics**
-2. You can now choose your backend in the general panel, your resolution and other things in the enhancement panel, and hacks for optimizing things. Only use advanced if you plan to debug.
-3. You now should have configured your graphics settings. Be warned you will need a beefy gpu to crank it to 4K.
+1. Within the conventional Dolphin menu, locate and click on the **Graphics** option.
+2. Now, you have the ability to select your preferred backend within the general panel. Additionally, you can adjust your resolution and explore other enhancements within the designated panel. It is important to note that utilizing advanced options should only be considered if you intend to engage in debugging activities.
+3. Congratulations! You have successfully configured your graphics settings. However, it is essential to keep in mind that achieving a 4K resolution may require a powerful graphics processing unit (GPU).
 
 ## Booting a game.
 
 To boot a game, just double click on it as previously stated.
+
 
 And thats it! Enjoy hours of fun with your favourite Gamecube and Wii games at high resolutions!
 
