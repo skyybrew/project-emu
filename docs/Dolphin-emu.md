@@ -14,9 +14,9 @@ For macos, download it from [here](https://dl.dolphin-emu.org/builds/a2/40/dolph
 
 For Linux, depending on your distro check below
 
-<details> On Arch Linux open a terminal instance and type **yay -S dolphin-emu**. <summary>Arch Linux<summary></details>
+<details> On Arch Linux open a terminal instance and type yay -S dolphin-emu <summary>Arch Linux<summary></details>
 
-<details> On Ubuntu Linux type `sudo apt update` and then **sudo apt install dolphin**. <summary>Ubuntu Linux<summary></details>
+<details> On Ubuntu Linux type `sudo apt update` and then sudo apt install dolphin <summary>Ubuntu Linux<summary></details>
 
 
 ##  Setting up the emulator.
