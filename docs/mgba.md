@@ -7,7 +7,9 @@ mGBA is a Gameboy, Gameboy Color and a Gamebody Advance emulator on many platfor
 ## Installing
 
 On MacOS install it [here](https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-macos.dmg)
+
 On Windows install it [here](https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-win32-installer.exe)
+
 On Ubuntu Linux install it [here](https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-ubuntu64-jammy.tar.xz)
 
 ## Configuring a controller
