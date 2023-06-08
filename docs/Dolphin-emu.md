@@ -10,11 +10,18 @@ It is available on multiple platforms, including Mac, Windows, Linux, and Androi
 
 To begin, the first step is to acquire the Dolphin emulator. You can obtain it by downloading it from [here](https://dolphin-emu.org/download/)
 
-In the case of Linux users, the method varies depending on your specific distribution. Open a terminal window and enter the following command: `yay -S dolphin-emu`
+For macos, download it from [here](https://dl.dolphin-emu.org/builds/a2/40/dolphin-master-5.0-19501-universal.dmg).
+
+For Linux, depending on your distro check below
+
+<details> On Arch Linux open a terminal instance and type **yay -S dolphin-emu**. <summary>Arch Linux<summary></details>
+
+<details> On Ubuntu Linux type `sudo apt update` and then **sudo apt install dolphin**. <summary>Ubuntu Linux<summary></details>
+
 
 ##  Setting up the emulator.
 
-1. Extract the .zip or .dmg file with a zip explorer (7z, winrar, winzip).
+1. Extract the `.zip` or `.dmg` file with a zip explorer (7z, winrar, winzip).
 2. Once extracted, boot up the emulator. 
 3. You will see a screen that says **Dolphin could not find any gamecube/wii ISO's or wads.** This is normal as we have not set a game directory.
 4. To set a game directory, Double click inside dolphin and a file explorer window will show up. Set it to the directory where your game files are.
@@ -41,6 +48,7 @@ It is very easy to configure dolphin. You can use almost any controller! Let's w
 
 To boot a game, just double click on it as previously stated.
 
-And thats it! Enjoy hours of fun with your favourite GameCube and Wii games at high resolutions!
+
+And thats it! Enjoy hours of fun with your favourite Gamecube and Wii games at high resolutions!
 
 
