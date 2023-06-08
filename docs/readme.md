@@ -5,11 +5,14 @@ At **Project emulator**, we make high quality, quick and easy to follow emulatio
 Here you can find it all!
 ## Emulation guides
 
-[Dolphin Emulator Guide](Dolphin-emu)
+[Dolphin Emulator Guide](/Dolphin-emu)
 
-[DuckStation Guide](DuckStation.md)
+[DuckStation Guide](/DuckStation.md)
 
-[PPSSPP Guide](PPSSPP.md)
+[PPSSPP Guide](/PPSSPP.md)
 
-[Project 64 Guide](p64.md)
+[Project 64 Guide](/p64.md)
 
+[mGBA Guide](/mgba.md)
+
+[melonDS Guide](/melonds.md)

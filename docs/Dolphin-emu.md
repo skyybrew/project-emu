@@ -1,8 +1,6 @@
-## The following is a guide to install dolphin emulator.
+## Dolphin Emulator
 
 !> Never use illegal/pirated games. Always use ones you dumped.
-
-?> Visit the [utilities page](/utilities) for downloads of useful software you may need.
 
 The Dolphin emulator is a user-friendly, efficient, and precise software that allows you to emulate GameCube and Wii games effortlessly.
 
