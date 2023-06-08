@@ -3,7 +3,7 @@
 ## What is mGBA?
 
 mGBA is a Gameboy, Gameboy Color and a Gamebody Advance emulator on many platforms. This guide will cover for all PC versions.
-å
+
 ## Installing
 
 On MacOS install it [here](https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-macos.dmg)

@@ -7,7 +7,9 @@ melonDS is the best Nintendo DS emulator for the PC. This guide will detail how 
 ## Installing
 
 On MacOS install it [here](https://melonds.kuribo64.net/downloads/melonDS_0.9.5_mac_UB2.dmg)
+
 On Windows install it [here](https://melonds.kuribo64.net/downloads/melonDS_0.9.5_win_x64.zip)
+
 On Ubuntu Linux install it [here](https://melonds.kuribo64.net/downloads/melonDS_0.9.5_linux_x64.zip)
 
 ## Configuring a controller
