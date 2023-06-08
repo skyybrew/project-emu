@@ -33,5 +33,3 @@ Set it to the place you have your PSP rom.
 After it scans and finds it, click on the game.
 
 And then your done! Thats all it takes to play PSP games on a PC!
-
-## Written with love and care by Skyy, of the skyybrew team. 
