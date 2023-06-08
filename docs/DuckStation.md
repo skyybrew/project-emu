@@ -18,8 +18,6 @@ Download DuckStation for Android [here](https://play.google.com/store/apps/detai
 3. Launch the .exe (on Windows) or the Application (on MacOS).
 4. DuckStation is open! Now you'll find out how to configure settings.
 
-## Configure settings
-
 
 ?> When I launch the application on MacOS, it tell me this app can't be verified. How do I fix this?
 
